@@ -36,10 +36,10 @@ Certifique-se de ter o *Node.js* (versão LTS) instalado em seu computador.
 Abra o seu terminal, navegue até a pasta do servidor e instale as dependências:
 ```bash
 # Navegar até o diretório do servidor
-cd server.
+cd server
 
 # Instalar todas as dependências do projeto
-npm install.
+npm install
 
 # Iniciar o servidor em ambiente de desenvolvimento
-npm run dev.
+npm run dev
