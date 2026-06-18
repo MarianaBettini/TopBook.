@@ -31,7 +31,7 @@ O ecossistema simula o gerenciamento de acervo de uma biblioteca universitária,
 Siga os passos abaixo para executar o ecossistema em sua máquina de desenvolvimento:
 
 ### 1. Pré-requisitos
-Certifique-se de ter o *Node.js* (versão LTS) instalado em seu computador.
+Certifique-se de ter o *Node.js* (versão LTS) instalado em seu computador para a criação da pasta "node_modules" na pasta do sistema, permitindo sua execução.
 
 ### 2. Configurando e Executando o Servidor (Back-end)
 Abra o seu terminal, navegue até a pasta do servidor e instale as dependências:
