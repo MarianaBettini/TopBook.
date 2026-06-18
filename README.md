@@ -3,6 +3,7 @@
 
 Trabalho prático desenvolvido para a disciplina de *Programação para Internet* do curso de *Sistemas de Informação* da Faculdade *Multivix. O objetivo do projeto é consolidar o aprendizado em desenvolvimento Full Stack funcional utilizando **Node.js, **Express, **TypeScript* e *HTML5/CSS3* modernos.
 
+Nota de Desenvolvimento: Este projeto foi desenvolvido com o auxílio do Gemini, um modelo de IA, como colaborador técnico para estruturação, otimização de código e melhores práticas de desenvolvimento.
 ---
 
 ## 👥 Integrantes do Grupo
@@ -12,8 +13,8 @@ Trabalho prático desenvolvido para a disciplina de *Programação para Internet
 
 ---
 
-## 🏛️ Tema Escolhido e Domínio de Negócio
-*Sistema de Biblioteca com Empréstimo de Livros*
+## 🏛️ Sobre o Projeto
+*Sistema de Biblioteca com Empréstimo de Livros - TopBook.*
 O ecossistema simula o gerenciamento de acervo de uma biblioteca universitária, permitindo o cadastro de obras literárias, indicação do aluno responsável pelo empréstimo, registro da data de movimentação e o status atual da reserva (Disponível ou Emprestado).
 
 ---
